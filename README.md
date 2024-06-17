@@ -4,11 +4,11 @@
 
 1. **Task 1: Repository Setup*
     1. Open your web browser, go to GitHub, and log in to your account.
-        2. Create a New Repository:
-        3. Click the "+" icon in the top right corner of the page and select "New repository".
-        4. Name the repository "PLPBasicGitAssignment".
-        5. Check the box to initialize the repository with a README file.
-        6. Click "Create repository"
+    2. Create a New Repository:
+    3. Click the "+" icon in the top right corner of the page and select "New repository".
+    4. Name the repository "PLPBasicGitAssignment".
+    5. Check the box to initialize the repository with a README file.
+    6. Click "Create repository"
 
 2. **Task 2*  : Open your file explorer and create a new folder named "PLPBasicGitAssignment". using the terminal
 
