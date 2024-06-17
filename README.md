@@ -3,7 +3,7 @@
 **These are the steps I follwed in creation of the text file.**
 
 1. **Task 1: Repository Setup*
-        1. Open your web browser, go to GitHub, and log in to your account.
+    1. Open your web browser, go to GitHub, and log in to your account.
         2. Create a New Repository:
         3. Click the "+" icon in the top right corner of the page and select "New repository".
         4. Name the repository "PLPBasicGitAssignment".
