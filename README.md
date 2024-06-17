@@ -1,3 +1,3 @@
 # PLPBasicGitAssignment
 
-This is the document
+**These are the steps I follwed in creation of the text file.**
